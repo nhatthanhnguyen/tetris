@@ -1,0 +1,12 @@
+1.Xử lí các nút giao diện khi vừa mở chương trình
+2.Xử lí lý random khối, xoay khối.
+3.Xử lí di chuyển di chuyển khối(mũi tên xuống: tăng tốc, mũi tên lên: đổi hướng khối, mũi tên trái/phải: di chuyển qua lại)
+4.Xử lí hiệu ứng khi đã hoàn thành xong 1 dòng 
+5.Xử lí chức năng chọn level(dễ, trung bình, khó)
+5.Xử lí va chạm các khối khi chạm tới giới hạn sẽ dừng lại và một khối mới sẽ di chuyển xuống 
+6.Xử lí điểm (khi hoàn thành xong một dòng thì sẽ tính điểm ở bên góc màn hình) 
+7.Xử lí tạm dừng game (bấm vào biểu tượng dừng ở góc trên cùng bên trái sẽ hiện ra 3 mục : tiếp tục - chơi lại - thoát game ). 
+8.Xử lí kết thúc game (sau thua sẽ tính tổng điểm và xuất bảng thông báo lên màn hình gồm tổng điểm đạt được và kỉ lục và nút chơi lại). 
+9.Xử lí âm thanh trong game.
+10.Xử lí xếp hạng (nếu như đạt kỉ lục mới sẽ được lưu lại) sẽ show ra "Top 5" ở giao diện đầu game .
+
