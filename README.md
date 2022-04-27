@@ -43,3 +43,7 @@ MacBook-Pro:tetris_game-main user$ python3 main.py
 ```
 
 Sau khi gõ lệnh xong thì ta ấn phím Enter, lúc đó chương trình sẽ chạy và ta có được màn hình game TETRIS.
+
+## Demo chương trình
+
+![image](gif/1.gif)
